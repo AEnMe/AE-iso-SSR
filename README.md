@@ -1,5 +1,5 @@
 ## AE-iso-SSR
-Change transform shape's properties to isometric
+Change transform shape's properties to isometric deformation.
 
 ### How to apply
 Select the group in your shape layer, and simply apply the preset.
